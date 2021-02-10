@@ -1,0 +1,24 @@
+{
+  "name": "hello-cli",
+  "version": "1.0.0",
+  "description": "cd /path/to/package",
+  "main": "bin/index.js",
+  "bin": {
+    "hello": "./bin/index.js" 
+  },
+  
+  "scripts": {
+    "test": "go"
+  },
+  "repository": {
+    "type": "git",
+    "url": "SquidTest"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "sydney",
+  "license": "ISC"
+  
+}
+
